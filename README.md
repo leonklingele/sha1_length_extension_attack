@@ -1,4 +1,4 @@
-# Generate simple PDF SHA1 collisions
+# Generate pairs of simple PDFs that hash to the same SHA-1 sum
 
 ## Usage
 
@@ -9,15 +9,16 @@ $ chmod u+x run.sh
 $ ./run.sh "Some Text" "Different Text"
 ```
 
-This will download the sample SHA1 collision PDFs, and generate two customized PDFs. The PDFs will have the same SHA1 hash due to the way SHA1 processes blocks of data, but will be visually different.
+This will download the shattered.it SHA-1 collision PDFs, and generate two customized PDFs. The PDFs will be visuall different but will both hash to the same SHA-1 sum due the way SHA-1 processes blocks of data.
 
-These PDFs use the background color (as set in the original PDFs) to clash with the text color. Highlighting the document will show the hidden text.
+These PDFs use the background color (as set in the original PDFs) to to hide text of the same color. Highlighting the document will show the hidden text.
 
-More complex versions of this length extension attack are possible.
+See http://blog.alexsci.com/security/software/hashing/sha1-length-extension/ for more details.
 
 ## References
 * https://shattered.it/
 * https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html
 * https://en.wikipedia.org/wiki/Length\extension\attack
 * http://www.adobe.com/content/dam/Adobe/en/devnet/acrobat/pdfs/pdf\reference\1-7.pdf
+* http://blog.alexsci.com/security/software/hashing/sha1-length-extension/
 
