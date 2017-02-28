@@ -1,6 +1,6 @@
-==Generate simple PDF SHA1 collisions==
+# Generate simple PDF SHA1 collisions
 
-===Usage===
+## Usage
 
 Download and run the scripts (on Linux):
 
@@ -13,7 +13,7 @@ These PDFs use the background color (as set in the original PDFs) to clash with 
 
 More complex versions of this length extension attack are possible.
 
-===References===
+## References
 * https://shattered.it/
 * https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html
 * https://en.wikipedia.org/wiki/Length\_extension\_attack
