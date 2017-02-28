@@ -1,0 +1,125 @@
+
+2 0 obj
+1024
+endobj
+
+3 0 obj
+740
+endobj
+
+4 0 obj
+/XObject
+endobj
+
+5 0 obj
+/Image
+endobj
+
+6 0 obj
+/DCTDecode
+endobj
+
+7 0 obj
+/DeviceRGB
+endobj
+
+8 0 obj
+421385
+endobj
+
+9 0 obj
+<<
+  /Type /Catalog
+  /Pages 10 0 R
+>>
+endobj
+
+
+10 0 obj
+<<
+  /Type /Pages
+  /Count 1
+  /Kids [11 0 R]
+>>
+endobj
+
+11 0 obj
+<<
+  /Type /Page
+  /Parent 10 0 R
+  /MediaBox [0 0 1024 740]
+  /CropBox [0 0 1024 740]
+  /Contents 12 0 R
+  /Resources
+  <<
+    /XObject <</Im0 1 0 R>>
+    /ProcSet 13 0 R
+    /Font << /F1 14 0 R >>
+  >>
+>>
+endobj
+
+12 0 obj
+<</Length 35>>
+stream
+q
+  5000 0 0 5000 -3500 -3800 cm
+  /Im0 Do
+Q
+BT
+/F1 24 Tf
+100 700 Td
+/DeviceRGB cs
+0.105882353 0.611764706 0.870588235 sc
+(REPLACEME_AAAA) Tj
+/F1 24 Tf
+0 -20 Td
+0.811764705 0.000000000 0.211764705 sc
+(REPLACEME_BBBB) Tj
+/F1 45 Tf
+300 -200 Td
+0 0 0 sc
+(WARNING!) Tj
+-300 -50 Td
+(This Document Has Tampered SHA1 Hash) Tj
+/F1 24 Tf
+220 -400 Td
+(https://github.com/ralexander-phi/sha1_length_extension_attack) Tj
+ET
+endstream
+endobj
+
+13 0 obj
+[/PDF /Text]
+endobj
+
+14 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Helvetica
+/Encoding /MacRomanEncoding
+>>
+endobj
+
+xref
+0 13 
+0000000000 65535 f 
+0000000017 00000 n 
+0000421553 00000 n 
+0000421574 00000 n 
+0000421594 00000 n 
+0000421619 00000 n 
+0000421642 00000 n 
+0000421669 00000 n 
+0000421696 00000 n 
+0000421719 00000 n 
+0000421775 00000 n 
+0000421841 00000 n 
+0000422018 00000 n 
+
+trailer << /Root 9 0 R /Size 13>>
+
+startxref
+422105
+%%EOF
