@@ -4,8 +4,10 @@
 
 Download and run the scripts (on Linux):
 
- $ chmod u+x run.sh
- $ ./run.sh "Some Text" "Different Text"
+```bash
+$ chmod u+x run.sh
+$ ./run.sh "Some Text" "Different Text"
+```
 
 This will download the sample SHA1 collision PDFs, and generate two customized PDFs. The PDFs will have the same SHA1 hash due to a length extension attack, but will be visually different.
 
