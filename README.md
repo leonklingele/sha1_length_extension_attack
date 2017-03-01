@@ -1,5 +1,12 @@
 # Generate pairs of simple PDFs that hash to the same SHA-1 sum
 
+## Better Versions
+
+Better versions of this attack have been demonstrated, be sure to check these out as well:
+
+* https://alf.nu/SHA1
+* https://github.com/nneonneo/sha1collider
+
 ## Usage
 
 Download and run the scripts (on Linux):
